@@ -28,3 +28,5 @@ class Bejeweled {
 }
 
 module.exports = Bejeweled;
+
+
